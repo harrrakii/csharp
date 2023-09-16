@@ -1,0 +1,8 @@
+C:\Users\кира\source\repos\Project_college_1\Project_college_1\bin\Debug\Project_college_1.exe.config
+C:\Users\кира\source\repos\Project_college_1\Project_college_1\bin\Debug\Project_college_1.exe
+C:\Users\кира\source\repos\Project_college_1\Project_college_1\bin\Debug\Project_college_1.pdb
+C:\Users\кира\source\repos\Project_college_1\Project_college_1\obj\Debug\Project_college_1.csproj.AssemblyReference.cache
+C:\Users\кира\source\repos\Project_college_1\Project_college_1\obj\Debug\Project_college_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\кира\source\repos\Project_college_1\Project_college_1\obj\Debug\Project_college_1.csproj.CoreCompileInputs.cache
+C:\Users\кира\source\repos\Project_college_1\Project_college_1\obj\Debug\Project_college_1.exe
+C:\Users\кира\source\repos\Project_college_1\Project_college_1\obj\Debug\Project_college_1.pdb
