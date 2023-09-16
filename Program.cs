@@ -106,8 +106,19 @@ namespace Project_college_1
                         {
                             Console.WriteLine("Введите первое число:");
                             first = Convert.ToDouble(Console.ReadLine());
-                            Console.WriteLine(Factorial(Convert.ToInt32(first)));
-                            Console.WriteLine();
+                            int res = 1;
+                            if (first >= 0)
+                            {
+                                for (int i = 1; i <=  first; i++)
+                                {
+                                    res *= i;
+                                }
+                                Console.WriteLine(res);
+                            }
+                            else
+                            {
+                                Console.WriteLine("Факториал из отрицательного");
+                            }
                             break;
                         }
                     case 9:
@@ -127,12 +138,6 @@ namespace Project_college_1
             }
             while (count);
             Console.ReadKey();
-        }
-        public static int Factorial(int n)
-        {
-            if (n == 1) return 1;
-
-            return n * Factorial(n - 1);
         }
     }
 }
